@@ -14,7 +14,6 @@
 - Languages:
 
    - Learning:
-    - GO
     - C++
     -Python
     
