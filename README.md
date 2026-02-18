@@ -12,7 +12,6 @@
 💻 Coding Expertise
 
 - Languages:
-
    - Learning:
     - C++
     -Python
